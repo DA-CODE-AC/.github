@@ -9,7 +9,7 @@
 
 ### Nos réseaux
 
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/BdEHzNzFyV) [![github](https://skillicons.dev/icons?i=github)](https://discord.gg/BdEHzNzFyV)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/BdEHzNzFyV) [![github](https://skillicons.dev/icons?i=github)](https://github.com/DA-CODE-AC)
 
 ---
 
